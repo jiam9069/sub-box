@@ -18,7 +18,7 @@ assets = { directory = ".open-next/assets", binding = "ASSETS" }
 [vars]
 ADMIN_USERNAME = "admin"
 ADMIN_PASSWORD = "Sub*1025" # Change this to a secure password
-JWT_SECRET = "7183d746-8787-4320-8240-ad50e758e9bc" # Change this to a secure secret key
+JWT_SECRET = "7183d746878743208240ad50e758e9bc" # Change this to a secure secret key
 SESSION_TAG = "0"
 SESSION_DURATION = "7d"
 DEPLOY_TARGET = "cloudflare"
